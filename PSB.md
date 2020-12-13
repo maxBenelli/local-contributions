@@ -7,3 +7,4 @@
 ## 2020-12-13
 * Fix vacancies hover
 * Add themes for drawer
+* Adding mobile menu, add fixed header
