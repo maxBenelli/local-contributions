@@ -8,3 +8,4 @@
 * Fix vacancies hover
 * Add themes for drawer
 * Adding mobile menu, add fixed header
+* Add static data ( socials, phones )
