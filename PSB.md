@@ -12,3 +12,4 @@
 * Add helper function
 * Add validation of form
 * Fix header wrap
+* Fix scroll to top
