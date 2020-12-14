@@ -22,3 +22,4 @@
 * Fix fonts for the vacancies
 * Fix fonts for the detail vacancy
 * Fix stop ddos form
+* Add sub category route
