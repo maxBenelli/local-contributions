@@ -23,3 +23,4 @@
 * Fix fonts for the detail vacancy
 * Fix stop ddos form
 * Add sub category route
+* Add active subcategory link
