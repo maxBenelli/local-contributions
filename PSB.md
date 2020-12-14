@@ -20,3 +20,4 @@
 * Fix similarVacancies font, fix font-weight for page
 * Fix fonts for the main page
 * Fix fonts for the vacancies
+* Fix fonts for the detail vacancy
