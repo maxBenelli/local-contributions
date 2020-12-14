@@ -19,3 +19,4 @@
 * Delete unused fonts
 * Fix similarVacancies font, fix font-weight for page
 * Fix fonts for the main page
+* Fix fonts for the vacancies
