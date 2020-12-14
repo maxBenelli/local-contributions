@@ -17,3 +17,4 @@
 
 ## 2020-12-14
 * Delete unused fonts
+* Fix similarVacancies font, fix font-weight for page
