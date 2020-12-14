@@ -14,3 +14,6 @@
 * Fix header wrap
 * Fix scroll to top
 * Fix backlink
+
+## 2020-12-14
+* Delete unused fonts
