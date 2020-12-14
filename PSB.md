@@ -21,3 +21,4 @@
 * Fix fonts for the main page
 * Fix fonts for the vacancies
 * Fix fonts for the detail vacancy
+* Fix stop ddos form
