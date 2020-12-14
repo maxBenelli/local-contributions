@@ -24,3 +24,4 @@
 * Fix stop ddos form
 * Add sub category route
 * Add active subcategory link
+* Add burning tooltip
