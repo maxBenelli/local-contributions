@@ -30,3 +30,4 @@
 * Fix scroll to news
 * Fix active class of subcategory
 * Fix banner pagination
+* Fix slider async load
