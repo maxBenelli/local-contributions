@@ -34,3 +34,4 @@
 * Fix animation of slider
 * Add animation to newsList
 * Add animation to TopNews
+* Add animation to main workSections
