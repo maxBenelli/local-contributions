@@ -33,3 +33,4 @@
 * Fix slider async load
 * Fix animation of slider
 * Add animation to newsList
+* Add animation to TopNews
