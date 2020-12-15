@@ -35,3 +35,4 @@
 * Add animation to newsList
 * Add animation to TopNews
 * Add animation to main workSections
+* Add getSections method, change theme of detail vacancy
