@@ -31,3 +31,4 @@
 * Fix active class of subcategory
 * Fix banner pagination
 * Fix slider async load
+* Fix animation of slider
