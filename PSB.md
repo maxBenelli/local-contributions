@@ -25,3 +25,6 @@
 * Add sub category route
 * Add active subcategory link
 * Add burning tooltip
+
+## 2020-12-15
+* Fix scroll to news
