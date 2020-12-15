@@ -29,3 +29,4 @@
 ## 2020-12-15
 * Fix scroll to news
 * Fix active class of subcategory
+* Fix banner pagination
