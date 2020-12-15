@@ -32,3 +32,4 @@
 * Fix banner pagination
 * Fix slider async load
 * Fix animation of slider
+* Add animation to newsList
