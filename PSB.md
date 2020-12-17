@@ -36,3 +36,6 @@
 * Add animation to TopNews
 * Add animation to main workSections
 * Add getSections method, change theme of detail vacancy
+
+## 2020-12-17
+* Fix opening the mobile menu from the right
