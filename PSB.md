@@ -39,3 +39,4 @@
 
 ## 2020-12-17
 * Fix opening the mobile menu from the right
+* Fix position of the main menu | TheHeader.vue
