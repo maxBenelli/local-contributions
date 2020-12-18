@@ -46,3 +46,4 @@
 * Realize send file in base64 to server
 * Fix required portfolio links
 * Add message for portfolio link
+* Fix file property name , upload file
