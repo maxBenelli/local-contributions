@@ -44,3 +44,4 @@
 
 ## 2020-12-18
 * Realize send file in base64 to server
+* Fix required portfolio links
