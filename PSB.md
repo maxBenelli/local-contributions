@@ -41,3 +41,6 @@
 * Fix opening the mobile menu from the right
 * Fix position of the main menu | TheHeader.vue
 * Fix Search loop ico
+
+## 2020-12-18
+* Realize send file in base64 to server
