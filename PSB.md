@@ -50,3 +50,4 @@
 
 ## 2020-12-22
 * Add validation for forms
+* Add search icon
