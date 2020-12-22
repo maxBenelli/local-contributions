@@ -47,3 +47,6 @@
 * Fix required portfolio links
 * Add message for portfolio link
 * Fix file property name , upload file
+
+## 2020-12-22
+* Add validation for forms
