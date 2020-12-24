@@ -51,3 +51,6 @@
 ## 2020-12-22
 * Add validation for forms
 * Add search icon
+
+## 2020-12-24
+* Fix burning vacancies
