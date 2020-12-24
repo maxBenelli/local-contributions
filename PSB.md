@@ -55,3 +55,4 @@
 ## 2020-12-24
 * Fix burning vacancies
 * Last fixes for filterHead
+* Add close icon for fastFilters
