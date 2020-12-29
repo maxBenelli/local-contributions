@@ -56,3 +56,6 @@
 * Fix burning vacancies
 * Last fixes for filterHead
 * Add close icon for fastFilters
+
+## 2020-12-29
+* Fix search error - vacancies
