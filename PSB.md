@@ -60,3 +60,4 @@
 ## 2020-12-29
 * Fix search error - vacancies
 * Fix topNews padding
+* Fix 404 page height
