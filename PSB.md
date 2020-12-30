@@ -64,3 +64,4 @@
 
 ## 2020-12-30
 * Add multiple option for FilterBlock
+* Add styles for BaseSelect with multiple options
