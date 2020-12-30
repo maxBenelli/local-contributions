@@ -61,3 +61,6 @@
 * Fix search error - vacancies
 * Fix topNews padding
 * Fix 404 page height
+
+## 2020-12-30
+* Add multiple option for FilterBlock
