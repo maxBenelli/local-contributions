@@ -66,3 +66,6 @@
 * Add multiple option for FilterBlock
 * Add styles for BaseSelect with multiple options
 * Fix fastFilters chips
+
+## 2021-01-12
+* Add favicon
