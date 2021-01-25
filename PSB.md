@@ -73,3 +73,4 @@
 ## 2021-01-25
 * Add getters, mutation for detecting browser
 * Add coming soon page, detect browser, change layout conditions
+* Add education's route
