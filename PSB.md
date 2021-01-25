@@ -69,3 +69,6 @@
 
 ## 2021-01-12
 * Add favicon
+
+## 2021-01-25
+* Add getters, mutation for detecting browser
