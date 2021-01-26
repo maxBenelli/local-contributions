@@ -74,3 +74,6 @@
 * Add getters, mutation for detecting browser
 * Add coming soon page, detect browser, change layout conditions
 * Add education's route
+
+## 2021-01-26
+* Add EmptyHeader for the application form
