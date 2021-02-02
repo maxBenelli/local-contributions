@@ -83,3 +83,4 @@
 * Fix margin of text error
 * Add BaseSwitch component
 * Add default form template
+* Add application-form page, form template and steps
