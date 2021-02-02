@@ -78,3 +78,6 @@
 ## 2021-01-26
 * Add EmptyHeader for the application form
 * Add layout for the application form
+
+## 2021-02-02
+* Fix margin of text error
