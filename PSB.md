@@ -84,3 +84,4 @@
 * Add BaseSwitch component
 * Add default form template
 * Add application-form page, form template and steps
+* Add SidePanel for applicationForm
