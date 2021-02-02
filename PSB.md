@@ -81,3 +81,4 @@
 
 ## 2021-02-02
 * Fix margin of text error
+* Add BaseSwitch component
