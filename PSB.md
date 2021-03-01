@@ -99,3 +99,4 @@
 * Add images, SuccessAvatar for application form success
 * Add additional methods - clear values, check required, set value | Step1
 * Update form data fields | Step1
+* Add data required fields and flag of ready | Step1
