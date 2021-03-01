@@ -103,3 +103,4 @@
 * Fix methods, set value after clear and change | Step1
 * Add old names, phone home, foreign citizen, uploader, add watchers | Step1
 * Add methods, update data, props | Step2
+* Add watchers and BaseSelect | Step2
