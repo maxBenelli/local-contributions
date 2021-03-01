@@ -86,3 +86,6 @@
 * Add application-form page, form template and steps
 * Add SidePanel for applicationForm
 * Delete trash
+
+## 2021-03-01
+* Fix position of the title
