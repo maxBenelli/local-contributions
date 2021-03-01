@@ -114,3 +114,4 @@
 * Update methods, data | Form.vue
 * Add props, components | Form.vue
 * Push through data into Steps, add confidenceRules and success page | Form.vue
+* Fix Safari load loop
