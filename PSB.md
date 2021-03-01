@@ -91,3 +91,4 @@
 * Fix position of the title
 * Add JSON Data
 * Connect JSON Data and push through
+* Update mini form components
