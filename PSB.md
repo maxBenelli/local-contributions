@@ -116,3 +116,4 @@
 * Push through data into Steps, add confidenceRules and success page | Form.vue
 * Fix Safari load loop
 * Add ConfidenceRules component
+* Add CustomCheckbox component
