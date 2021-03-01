@@ -102,3 +102,4 @@
 * Add data required fields and flag of ready | Step1
 * Fix methods, set value after clear and change | Step1
 * Add old names, phone home, foreign citizen, uploader, add watchers | Step1
+* Add methods, update data, props | Step2
