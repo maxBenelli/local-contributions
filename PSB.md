@@ -96,3 +96,4 @@
 * Add multiple upload component for the application form
 * Update some scss
 * Add avatar upload to SidePanel, get percent by props
+* Add images, SuccessAvatar for application form success
