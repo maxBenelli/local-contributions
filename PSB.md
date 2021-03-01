@@ -112,3 +112,4 @@
 * Update by the new fields | Step4
 * Update styles | Form.vue
 * Update methods, data | Form.vue
+* Add props, components | Form.vue
