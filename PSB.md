@@ -95,3 +95,4 @@
 * Add avatar upload component for the application form
 * Add multiple upload component for the application form
 * Update some scss
+* Add avatar upload to SidePanel, get percent by props
