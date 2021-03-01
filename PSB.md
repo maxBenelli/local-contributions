@@ -98,3 +98,4 @@
 * Add avatar upload to SidePanel, get percent by props
 * Add images, SuccessAvatar for application form success
 * Add additional methods - clear values, check required, set value | Step1
+* Update form data fields | Step1
