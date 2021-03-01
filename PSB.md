@@ -108,3 +108,4 @@
 * Add new methods, update data, add BaseCheckbox | Step3
 * Update by the new fields | Step3
 * Add new methods, update data | Step4
+* Add watchers, BaseSelect, Custom Checkbox, props| Step4
