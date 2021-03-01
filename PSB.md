@@ -104,3 +104,4 @@
 * Add old names, phone home, foreign citizen, uploader, add watchers | Step1
 * Add methods, update data, props | Step2
 * Add watchers and BaseSelect | Step2
+* Update by the new fields | Step2
