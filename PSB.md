@@ -111,3 +111,4 @@
 * Add watchers, BaseSelect, Custom Checkbox, props| Step4
 * Update by the new fields | Step4
 * Update styles | Form.vue
+* Update methods, data | Form.vue
