@@ -93,3 +93,4 @@
 * Connect JSON Data and push through
 * Update mini form components
 * Add avatar upload component for the application form
+* Add multiple upload component for the application form
