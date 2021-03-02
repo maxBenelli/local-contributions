@@ -124,3 +124,4 @@
 * Set group after change | Step1
 * Reformat result and show in console | Step1
 * Add data groups | Step2
+* Set groups after change | Step2
