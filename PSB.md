@@ -126,3 +126,4 @@
 * Add data groups | Step2
 * Set groups after change | Step2
 * Reformat result and show in cosole v.1 | Step2
+* Add groups into components
