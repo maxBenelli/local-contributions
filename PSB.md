@@ -117,3 +117,6 @@
 * Fix Safari load loop
 * Add ConfidenceRules component
 * Add CustomCheckbox component
+
+## 2021-03-02
+* Merge remote-tracking branch 'origin/feature/PSB100326-72' into feature/PSB100326-146
