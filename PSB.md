@@ -122,3 +122,4 @@
 * Merge remote-tracking branch 'origin/feature/PSB100326-72' into feature/PSB100326-146
 * Add data groups | Step1
 * Set group after change | Step1
+* Reformat result and show in console | Step1
