@@ -133,3 +133,4 @@
 * Delete trash
 * Get group from BaseSelect
 * Update packages
+* Add version 1.0 BaseDatePicker.vue
