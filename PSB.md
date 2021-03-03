@@ -135,3 +135,4 @@
 * Update packages
 * Add version 1.0 BaseDatePicker.vue
 * Change names, add data group | Step3
+* Add methods for reformat result | Step3
