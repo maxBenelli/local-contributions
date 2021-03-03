@@ -127,3 +127,6 @@
 * Set groups after change | Step2
 * Reformat result and show in cosole v.1 | Step2
 * Add groups into components
+
+## 2021-03-03
+* Fix reformat result | Step2
