@@ -130,3 +130,4 @@
 
 ## 2021-03-03
 * Fix reformat result | Step2
+* Delete trash
