@@ -138,3 +138,6 @@
 * Add methods for reformat result | Step3
 * Add data groups | Step4
 * Add methods for reformat result | Step4
+
+## 2021-03-04
+* Add some fixes - get full data in JSON
