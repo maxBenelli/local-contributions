@@ -154,3 +154,4 @@
 * Fix reformat certificates and citizenship
 * Fix name of page class
 * Change props, names of variables | Step4
+* Change placement and type of citizenshipAdditional, names of variables | Step4
