@@ -142,3 +142,6 @@
 ## 2021-03-04
 * Add some fixes - get full data in JSON
 * Add fixes to JSON object - PSB100326-158
+
+## 2021-03-05
+* Delete old JSON data files
