@@ -153,3 +153,4 @@
 * Delete unused function | Step2
 * Fix reformat certificates and citizenship
 * Fix name of page class
+* Change props, names of variables | Step4
