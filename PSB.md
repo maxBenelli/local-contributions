@@ -149,3 +149,4 @@
 * Delete unused props, change names of variables
 * Add new route url | Store
 * Fix select , if mode is multiple | BaseSelect
+* Change props by new, change names of variables | Step2
