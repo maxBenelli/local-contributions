@@ -147,3 +147,4 @@
 * Delete old JSON data files
 * Delete unused JSON data, add new async method for data
 * Delete unused props, change names of variables
+* Add new route url | Store
