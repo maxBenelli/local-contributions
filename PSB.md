@@ -157,3 +157,4 @@
 * Change placement and type of citizenshipAdditional, names of variables | Step4
 * Change placement and type of driverLicenseCategory, names of variables | Step4
 * Change placement of driverLicenseIssueDate, names of variables | Step4
+* Delete trash | Step4
