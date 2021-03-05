@@ -148,3 +148,4 @@
 * Delete unused JSON data, add new async method for data
 * Delete unused props, change names of variables
 * Add new route url | Store
+* Fix select , if mode is multiple | BaseSelect
