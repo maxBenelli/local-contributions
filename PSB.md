@@ -146,3 +146,4 @@
 ## 2021-03-05
 * Delete old JSON data files
 * Delete unused JSON data, add new async method for data
+* Delete unused props, change names of variables
