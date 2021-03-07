@@ -162,3 +162,4 @@
 ## 2021-03-07
 * Change input date to datapicker
 * Add BaseDatePicker component
+* Fix input with label + placeholder
