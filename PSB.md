@@ -164,3 +164,4 @@
 * Add BaseDatePicker component
 * Fix input with label + placeholder
 * Add placeholders
+* Change input fullnameChangedComment to select, add method to get value
