@@ -158,3 +158,6 @@
 * Change placement and type of driverLicenseCategory, names of variables | Step4
 * Change placement of driverLicenseIssueDate, names of variables | Step4
 * Delete trash | Step4
+
+## 2021-03-07
+* Change input date to datapicker
