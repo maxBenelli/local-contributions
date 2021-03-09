@@ -169,3 +169,4 @@
 
 ## 2021-03-09
 * Fix chars count methods, add normal hint
+* Add styles for hint
