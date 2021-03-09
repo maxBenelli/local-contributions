@@ -166,3 +166,6 @@
 * Add placeholders
 * Change input fullnameChangedComment to select, add method to get value
 * Change name of input
+
+## 2021-03-09
+* Fix chars count methods, add normal hint
