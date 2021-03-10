@@ -177,3 +177,4 @@
 * Fix null values in object Certificates, delete trash
 * Add applicationFormSend method
 * Fix headers for axios post methods
+* Connect to send application method
