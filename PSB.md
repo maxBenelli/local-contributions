@@ -173,3 +173,4 @@
 
 ## 2021-03-10
 * Add new object into JSON - avatar file
+* Merge branch 'master' into feature/PSB100326-146
