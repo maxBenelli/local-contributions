@@ -178,3 +178,4 @@
 * Add applicationFormSend method
 * Fix headers for axios post methods
 * Connect to send application method
+* Fix person object, if not exist
