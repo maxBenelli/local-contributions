@@ -175,3 +175,4 @@
 * Add new object into JSON - avatar file
 * Merge branch 'master' into feature/PSB100326-146
 * Fix null values in object Certificates, delete trash
+* Add applicationFormSend method
