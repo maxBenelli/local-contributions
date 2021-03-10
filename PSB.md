@@ -170,3 +170,6 @@
 ## 2021-03-09
 * Fix chars count methods, add normal hint
 * Add styles for hint
+
+## 2021-03-10
+* Add new object into JSON - avatar file
