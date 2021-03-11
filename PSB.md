@@ -179,3 +179,6 @@
 * Fix headers for axios post methods
 * Connect to send application method
 * Fix person object, if not exist
+
+## 2021-03-11
+* Change citizenshipPrevious input to select
