@@ -195,3 +195,4 @@
 * Fix incorrect citizenship's array
 * Fix success avatar image
 * Delete serial from required, add passportFiles to required
+* Add required fields, methods for step2
