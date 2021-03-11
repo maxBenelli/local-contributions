@@ -184,3 +184,4 @@
 * Change citizenshipPrevious input to select
 * Change driverCategory value(id) to code (letter of category), add method
 * Change debtObligationsExpDate input to datepicker
+* Fix BaseSelect value if clear
