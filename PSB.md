@@ -196,3 +196,4 @@
 * Fix success avatar image
 * Delete serial from required, add passportFiles to required
 * Add required fields, methods for step2
+* Add required fields, methods for steps, and Base Form components
