@@ -186,3 +186,4 @@
 * Change debtObligationsExpDate input to datepicker
 * Fix BaseSelect value if clear
 * Fix reformat result of last step when submit
+* Add required fields, functions for Step3
