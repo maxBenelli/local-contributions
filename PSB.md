@@ -188,3 +188,4 @@
 * Fix reformat result of last step when submit
 * Add required fields, functions for Step3
 * Check, if universityType isn't empty
+* Fix requiredFields func, turn on the next button if condition is true
