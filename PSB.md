@@ -192,3 +192,4 @@
 * Check if key exist
 * Turn on success page if the application form is sent
 * Delete trash
+* Fix incorrect citizenship's array
