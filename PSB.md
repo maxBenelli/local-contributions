@@ -182,3 +182,4 @@
 
 ## 2021-03-11
 * Change citizenshipPrevious input to select
+* Change driverCategory value(id) to code (letter of category), add method
