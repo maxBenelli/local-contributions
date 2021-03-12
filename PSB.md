@@ -208,3 +208,4 @@
 * Fix min charsCnt hint
 * Fix min charsCnt of adresses from 2 to 5
 * Fix minChars title's when typing symbols in inputs
+* Fix placeholder and mask in taxtpayerNumber, insuranceNumber
