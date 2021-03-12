@@ -210,3 +210,4 @@
 * Fix minChars title's when typing symbols in inputs
 * Fix placeholder and mask in taxtpayerNumber, insuranceNumber
 * Remove certificates and languages from required points
+* Change min charsCnt of universityName from 10 to 5
