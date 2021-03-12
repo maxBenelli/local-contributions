@@ -201,3 +201,4 @@
 
 ## 2021-03-12
 * Add class and change style's placement, fix img by the border-radius
+* Remove required point from middlename, previous name (lastname,middlename), phone home
