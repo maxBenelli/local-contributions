@@ -212,3 +212,4 @@
 * Remove certificates and languages from required points
 * Change min charsCnt of universityName from 10 to 5
 * Remove work experience from required points, open step
+* Delete console.log
