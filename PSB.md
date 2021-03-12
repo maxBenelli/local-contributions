@@ -198,3 +198,6 @@
 * Add required fields, methods for step2
 * Add required fields, methods for steps, and Base Form components
 * Fix militaryDocumentId
+
+## 2021-03-12
+* Add class and change style's placement, fix img by the border-radius
