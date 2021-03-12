@@ -206,3 +206,4 @@
 * Increase min charsCnt of the foreign passport from 5 to 10
 * Change min chars, mask and placeholders for taxPayerNumber, insuranceNumber
 * Fix min charsCnt hint
+* Fix min charsCnt of adresses from 2 to 5
