@@ -204,3 +204,4 @@
 * Remove required point from middlename, previous name (lastname,middlename), phone home
 * Increase maxFiles of the passport from 2 to 3
 * Increase min charsCnt of the foreign passport from 5 to 10
+* Change min chars, mask and placeholders for taxPayerNumber, insuranceNumber
