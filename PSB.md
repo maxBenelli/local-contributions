@@ -213,3 +213,6 @@
 * Change min charsCnt of universityName from 10 to 5
 * Remove work experience from required points, open step
 * Delete console.log
+
+## 2021-03-30
+* Fix condition, check object keys error in IE && production mode
