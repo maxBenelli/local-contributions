@@ -217,3 +217,4 @@
 ## 2021-03-30
 * Fix condition, check object keys error in IE && production mode
 * Merge branch 'feature/PSB100326-240' into 'develop'
+* Fix custom property - education typeSet
