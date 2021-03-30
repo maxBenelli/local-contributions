@@ -219,3 +219,4 @@
 * Merge branch 'feature/PSB100326-240' into 'develop'
 * Fix custom property - education typeSet
 * Add clickable steps, check required and change percents
+* Merge branch 'feature/PSB100326-222' into 'develop'
