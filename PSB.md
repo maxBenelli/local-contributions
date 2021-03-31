@@ -223,3 +223,4 @@
 
 ## 2021-03-31
 * Fix box-shadow progress
+* Fix input label style
