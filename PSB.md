@@ -220,3 +220,6 @@
 * Fix custom property - education typeSet
 * Add clickable steps, check required and change percents
 * Merge branch 'feature/PSB100326-222' into 'develop'
+
+## 2021-03-31
+* Fix box-shadow progress
