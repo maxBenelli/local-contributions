@@ -224,3 +224,4 @@
 ## 2021-03-31
 * Fix box-shadow progress
 * Fix input label style
+* Fix method in BaseInput, init method when type is finished
