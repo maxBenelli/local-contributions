@@ -234,3 +234,4 @@
 * Use BaseInput with mask instead BaseDatePicker
 * Fix pipe if type is the dateMask
 * Add validations
+* Fix name of input
