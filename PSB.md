@@ -232,3 +232,4 @@
 * Remove old vue-the-mask, add new vue-text-mask + text-mask modules
 * Change old functions with vue-the-mask on the new - vue-the-text + pipe (auto-correct date)
 * Use BaseInput with mask instead BaseDatePicker
+* Fix pipe if type is the dateMask
