@@ -227,3 +227,6 @@
 * Fix method in BaseInput, init method when type is finished
 * Fix refs name
 * Add method for set focus and add points
+
+## 2021-04-01
+* Remove old vue-the-mask, add new vue-text-mask + text-mask modules
