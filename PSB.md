@@ -235,3 +235,4 @@
 * Fix pipe if type is the dateMask
 * Add validations
 * Fix name of input
+* Merge branch 'feature/PSB100326-222' into 'develop'
