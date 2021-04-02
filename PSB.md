@@ -236,3 +236,6 @@
 * Add validations
 * Fix name of input
 * Merge branch 'feature/PSB100326-222' into 'develop'
+
+## 2021-04-02
+* Realize scroll to top when tab key is changed
