@@ -241,3 +241,4 @@
 * Realize scroll to top when tab key is changed
 * Merge branch 'feature/PSB100326-222' into 'develop'
 * Add styles for the remove button
+* Add the remove button - delete last item ( index )
