@@ -246,3 +246,4 @@
 
 ## 2021-04-03
 * Fix style of required fields
+* Fix hint
