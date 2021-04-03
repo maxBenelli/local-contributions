@@ -243,3 +243,6 @@
 * Add styles for the remove button
 * Add the remove button - delete last item ( index )
 * Merge branch 'feature/PSB100326-222' into 'develop'
+
+## 2021-04-03
+* Fix style of required fields
