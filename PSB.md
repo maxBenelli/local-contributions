@@ -256,3 +256,4 @@
 
 ## 2021-04-06
 * Fix ant styles
+* Realize swipe and scroll for steps
