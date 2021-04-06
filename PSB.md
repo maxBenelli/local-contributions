@@ -257,3 +257,4 @@
 ## 2021-04-06
 * Fix ant styles
 * Realize swipe and scroll for steps
+* Merge branch 'feature/PSB100326-222' into 'develop'
