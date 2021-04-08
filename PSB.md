@@ -262,3 +262,4 @@
 ## 2021-04-08
 * Fix steps and avatar with progress bar, update styles
 * Merge branch 'feature/PSB100326-222' into 'develop'
+* Fix broken conditions when backend changed data
