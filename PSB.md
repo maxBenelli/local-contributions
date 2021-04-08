@@ -258,3 +258,6 @@
 * Fix ant styles
 * Realize swipe and scroll for steps
 * Merge branch 'feature/PSB100326-222' into 'develop'
+
+## 2021-04-08
+* Fix steps and avatar with progress bar, update styles
