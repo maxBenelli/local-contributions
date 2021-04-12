@@ -265,3 +265,6 @@
 * Fix broken conditions when backend changed data
 * Add tooltip and upload hint
 * Merge branch 'feature/PSB100326-222' into 'develop'
+
+## 2021-04-12
+* Fix taxpayerNumber's mask
