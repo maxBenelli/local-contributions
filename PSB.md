@@ -271,3 +271,4 @@
 * Fix delete additional block
 * Merge branch 'feature/PSB100326-222' into 'develop'
 * Add additional field - university issueDate
+* Merge branch 'feature/PSB100326-222' into 'develop'
