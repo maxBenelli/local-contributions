@@ -273,3 +273,4 @@
 * Add additional field - university issueDate
 * Merge branch 'feature/PSB100326-222' into 'develop'
 * Add Coming Soon page
+* Add function for detecting IE browser
