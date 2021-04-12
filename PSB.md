@@ -268,3 +268,4 @@
 
 ## 2021-04-12
 * Fix taxpayerNumber's mask
+* Fix delete additional block
