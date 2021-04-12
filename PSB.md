@@ -275,3 +275,4 @@
 * Add Coming Soon page
 * Add function for detecting IE browser
 * Merge branch 'feature/PSB100326-222' into 'develop'
+* Get error when submit form
