@@ -287,3 +287,4 @@
 * Fix get method of the archive news
 * Merge branch 'feature/PSB100326-222' into 'develop'
 * Fix error when clear filter
+* Merge branch 'feature/PSB100326-222' into 'master'
