@@ -284,3 +284,4 @@
 * Merge remote-tracking branch 'origin/feature/PSB100326-222' into feature/PSB100326-222
 * Fix phone input
 * Fix BaseSelect when clear value in array
+* Fix get method of the archive news
