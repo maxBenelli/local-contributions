@@ -291,3 +291,4 @@
 * Revert Merge branch feature/PSB100326-222 into master
 * Merge branch 'revert-4664d60f' into 'master'
 * Fix error when clear filter
+* Merge branch 'cherry-pick-60f6ae23' into 'develop'
