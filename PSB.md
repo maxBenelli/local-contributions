@@ -290,3 +290,4 @@
 * Merge branch 'feature/PSB100326-222' into 'master'
 * Revert Merge branch feature/PSB100326-222 into master
 * Merge branch 'revert-4664d60f' into 'master'
+* Fix error when clear filter
