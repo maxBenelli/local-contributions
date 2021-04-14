@@ -277,3 +277,6 @@
 * Merge branch 'feature/PSB100326-222' into 'develop'
 * Get error when submit form
 * Merge branch 'feature/PSB100326-222' into 'develop'
+
+## 2021-04-14
+* Fix upload area
