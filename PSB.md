@@ -286,3 +286,4 @@
 * Fix BaseSelect when clear value in array
 * Fix get method of the archive news
 * Merge branch 'feature/PSB100326-222' into 'develop'
+* Fix error when clear filter
