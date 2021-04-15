@@ -292,3 +292,6 @@
 * Merge branch 'revert-4664d60f' into 'master'
 * Fix error when clear filter
 * Merge branch 'cherry-pick-60f6ae23' into 'develop'
+
+## 2021-04-15
+* Fix fonts colors in form
