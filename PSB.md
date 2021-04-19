@@ -297,3 +297,6 @@
 * Fix fonts colors in form
 * Merge branch 'feature/PSB100326-222' into 'develop'
 * Fix FilterBlock errors
+
+## 2021-04-19
+* Merge branch 'master' into feature/PSB100326-222
