@@ -304,3 +304,4 @@
 
 ## 2021-04-20
 * Replace setTimeout by native function
+* Replace setTimeout by native function
