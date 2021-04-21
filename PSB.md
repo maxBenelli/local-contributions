@@ -309,3 +309,6 @@
 * Merge remote-tracking branch 'origin/feature/PSB100326-222' into feature/PSB100326-222
 * Merge remote-tracking branch 'origin/feature/PSB100326-222' into feature/PSB100326-222
 * Merge branch 'feature/PSB100326-222' into 'develop'
+
+## 2021-04-21
+* Fix error when form sending with ID null
