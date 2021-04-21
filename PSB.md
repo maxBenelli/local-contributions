@@ -313,3 +313,4 @@
 ## 2021-04-21
 * Fix error when form sending with ID null
 * Add BannerVacancy - send form without vacancy ID
+* Fix FilterHead style
