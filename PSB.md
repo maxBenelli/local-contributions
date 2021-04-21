@@ -314,3 +314,4 @@
 * Fix error when form sending with ID null
 * Add BannerVacancy - send form without vacancy ID
 * Fix FilterHead style
+* Fix FilterHead style
