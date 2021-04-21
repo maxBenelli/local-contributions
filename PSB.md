@@ -319,3 +319,4 @@
 * Fix workarea overflow style
 * Merge branch 'PSB100326-222-3' into 'develop'
 * Fix chips without name - input chips
+* Fix filter clear and reset - add type resetFilter
