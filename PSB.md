@@ -324,3 +324,4 @@
 
 ## 2021-04-22
 * Fix taxpayer count of numbers
+* Fix inputs - delete required status
