@@ -321,3 +321,6 @@
 * Fix chips without name - input chips
 * Fix filter clear and reset - add type resetFilter
 * Merge branch 'PSB100326-222-3' into 'develop'
+
+## 2021-04-22
+* Fix taxpayer count of numbers
