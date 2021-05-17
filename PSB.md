@@ -331,3 +331,6 @@
 * Change label of the university field
 * Change min value of organizations names
 * Change success message
+
+## 2021-05-17
+* Add fullnameChanged date
