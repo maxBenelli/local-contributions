@@ -338,3 +338,4 @@
 ## 2021-05-18
 * Fix BaseSwitch
 * Add hide/show quit date by switch, add watchers and functions
+* Add switch styles with custom-group
