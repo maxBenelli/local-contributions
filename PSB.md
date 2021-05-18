@@ -334,3 +334,6 @@
 
 ## 2021-05-17
 * Add fullnameChanged date
+
+## 2021-05-18
+* Fix BaseSwitch
