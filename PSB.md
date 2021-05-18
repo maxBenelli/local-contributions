@@ -341,3 +341,4 @@
 * Add switch styles with custom-group
 * Add new confidence and fix old text
 * Add new style for inline inputs
+* Fix CustomCheckbox wrap, add new styles
