@@ -340,3 +340,4 @@
 * Add hide/show quit date by switch, add watchers and functions
 * Add switch styles with custom-group
 * Add new confidence and fix old text
+* Add new style for inline inputs
