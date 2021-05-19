@@ -353,3 +353,4 @@
 * Unselect required diplomaNumber field
 * Merge branch 'feature/PSB100326-288' into 'develop'
 * Delete min chars cnt
+* Merge branch 'feature/PSB100326-288' into 'develop'
