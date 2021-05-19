@@ -350,3 +350,4 @@
 * Add group subtitle
 * Add group subtitle styles
 * Merge branch 'feature/PSB100326-288' into 'develop'
+* Unselect required diplomaNumber field
