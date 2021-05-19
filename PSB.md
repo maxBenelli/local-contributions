@@ -344,3 +344,6 @@
 * Fix CustomCheckbox wrap, add new styles
 * Add new confidence, check access to send
 * Add new field - changedComment
+
+## 2021-05-19
+* Merge branch 'PSB100326-222-3' into 'develop'
