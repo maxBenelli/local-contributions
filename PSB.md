@@ -354,3 +354,6 @@
 * Merge branch 'feature/PSB100326-288' into 'develop'
 * Delete min chars cnt
 * Merge branch 'feature/PSB100326-288' into 'develop'
+
+## 2021-05-20
+* Sub-task PSB100326-295 | Fix focused switch when clicked
