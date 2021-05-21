@@ -358,3 +358,6 @@
 ## 2021-05-20
 * Sub-task PSB100326-295 | Fix focused switch when clicked
 * Sub-task PSB100326-297 | Fix the middlename field - add required and switch, fix switch class
+
+## 2021-05-21
+* Sub-task PSB100326-279 | Convert news dates with year
