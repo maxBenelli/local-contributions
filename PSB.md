@@ -361,3 +361,6 @@
 
 ## 2021-05-21
 * Sub-task PSB100326-279 | Convert news dates with year
+
+## 2021-05-24
+* Sub-task PSB100326-309 | Change sent button on the vacancy section/detail page
