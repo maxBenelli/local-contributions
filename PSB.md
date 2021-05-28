@@ -364,3 +364,6 @@
 
 ## 2021-05-24
 * Sub-task PSB100326-309 | Change sent button on the vacancy section/detail page
+
+## 2021-05-28
+* Sub-task PSB100326-280 | Add styles, change placement of title, add scroll functions
