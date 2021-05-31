@@ -369,3 +369,6 @@
 * Sub-task PSB100326-280 | Add styles, change placement of title, add scroll functions
 * Sub-task PSB100326-314 | Fix condition of the BannerVacancy, change component placement
 * Sub-task PSB100326-299 | Fix text
+
+## 2021-05-31
+* Sub-task PSB100326-281 | Change type of storage, add limit form
