@@ -372,3 +372,6 @@
 
 ## 2021-05-31
 * Sub-task PSB100326-281 | Change type of storage, add limit form
+
+## 2021-06-09
+* Sub-task PSB100326-315 | Fix filter logic, change data placement, and etc.
