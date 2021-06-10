@@ -378,3 +378,4 @@
 
 ## 2021-06-10
 * Add uncommitted images
+* Sub-task PSB100326-328 | Add helper - format phone, add phone link into footer
