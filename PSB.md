@@ -382,3 +382,4 @@
 
 ## 2021-06-11
 * Sub-task PSB100326-327 | Add helper - format number, fix filter salary search methods, add delays
+* Sub-task PSB100326-315 | Fix min_salary search value
