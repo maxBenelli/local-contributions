@@ -379,3 +379,6 @@
 ## 2021-06-10
 * Add uncommitted images
 * Sub-task PSB100326-328 | Add helper - format phone, add phone link into footer
+
+## 2021-06-11
+* Sub-task PSB100326-327 | Add helper - format number, fix filter salary search methods, add delays
