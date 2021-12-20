@@ -9,3 +9,4 @@
 * Delete base_value from factors indicator
 * Delete class models value from event card
 * Change tab names
+* Delete tables from social result event card
