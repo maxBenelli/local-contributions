@@ -10,3 +10,4 @@
 * Delete class models value from event card
 * Change tab names
 * Delete tables from social result event card
+* Hide tables from event/factor.
