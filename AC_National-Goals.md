@@ -11,3 +11,4 @@
 * Change tab names
 * Delete tables from social result event card
 * Hide tables from event/factor.
+* Add apiUrl const
