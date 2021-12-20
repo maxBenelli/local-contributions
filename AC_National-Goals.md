@@ -13,3 +13,4 @@
 * Hide tables from event/factor.
 * Add apiUrl const
 * Add apiUrl for auth requests
+* Add apiUrl to requests
