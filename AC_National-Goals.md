@@ -5,3 +5,4 @@
 
 ## 2021-12-20
 * Change tab name in goals indicator
+* Change tab name in factors indicator
