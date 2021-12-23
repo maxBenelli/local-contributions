@@ -19,3 +19,4 @@
 * Add new api endpoints
 * Change title icon
 * Change page titles
+* Add references pages
