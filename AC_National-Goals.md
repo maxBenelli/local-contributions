@@ -14,3 +14,6 @@
 * Add apiUrl const
 * Add apiUrl for auth requests
 * Add apiUrl to requests
+
+## 2021-12-23
+* Add new api endpoints
