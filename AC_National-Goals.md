@@ -17,3 +17,4 @@
 
 ## 2021-12-23
 * Add new api endpoints
+* Change title icon
