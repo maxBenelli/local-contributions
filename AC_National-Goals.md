@@ -24,3 +24,6 @@
 * Add new references routes
 * Add new sections to the Sidebar
 * Merge remote-tracking branch 'origin/develop' into develop
+
+## 2021-12-24
+* Add remove/create methods, change references components
