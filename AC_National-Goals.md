@@ -46,3 +46,4 @@
 * Change aff_org_set_plan/fact to aff_org_set_plan/fact id
 * Add goals indicators link when factor is created
 * Update region after value is selected, change values in tables
+* Change aff_org_set_plan/fact to aff_org_set_plan/fact id
