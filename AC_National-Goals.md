@@ -42,3 +42,4 @@
 * Add create/remove WorkProjectTypes reference
 * Fix goal indicator text
 * Delete classId
+* Delete goal/indicator from Event card
