@@ -40,3 +40,4 @@
 ## 2021-12-27
 * Change region's select field placement, change region reference
 * Add create/remove WorkProjectTypes reference
+* Fix goal indicator text
