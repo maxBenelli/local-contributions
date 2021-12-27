@@ -36,3 +36,6 @@
 * Add new field to the Single plan reference
 * Add select for employees
 * Hide field
+
+## 2021-12-27
+* Change region's select field placement, change region reference
