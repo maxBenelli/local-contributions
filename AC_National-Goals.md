@@ -44,3 +44,4 @@
 * Delete classId
 * Delete goal/indicator from Event card
 * Change aff_org_set_plan/fact to aff_org_set_plan/fact id
+* Add goals indicators link when factor is created
