@@ -48,3 +48,4 @@
 * Update region after value is selected, change values in tables
 * Change aff_org_set_plan/fact to aff_org_set_plan/fact id
 * Add social fact values / fact values tables
+* Fix api url
