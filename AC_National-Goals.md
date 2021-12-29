@@ -49,3 +49,6 @@
 * Change aff_org_set_plan/fact to aff_org_set_plan/fact id
 * Add social fact values / fact values tables
 * Fix api url
+
+## 2021-12-29
+* Fix WorkProject card , delete goal_id / indicator_id
