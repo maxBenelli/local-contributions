@@ -56,3 +56,4 @@
 
 ## 2021-12-30
 * Add combobox, save values by national goals // Need refactoring
+* Add module ant-design-vue
