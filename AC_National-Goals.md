@@ -53,3 +53,6 @@
 ## 2021-12-29
 * Fix WorkProject card , delete goal_id / indicator_id
 * Fix saveInfluence method
+
+## 2021-12-30
+* Add combobox, save values by national goals // Need refactoring
