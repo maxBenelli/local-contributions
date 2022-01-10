@@ -61,3 +61,4 @@
 ## 2022-01-10
 * Add treshold / influence links with goals indicators
 * Remove phone numbers from employee object
+* Delete debug
