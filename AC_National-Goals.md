@@ -65,3 +65,4 @@
 
 ## 2022-01-11
 * Change employees reference, add items/edit items
+* Add main reference template, refactoring EmployeesIndex
