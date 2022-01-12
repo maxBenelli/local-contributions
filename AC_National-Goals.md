@@ -70,3 +70,4 @@
 ## 2022-01-12
 * Change api url
 * Change unit reference, add edit method, refactor component
+* Fix employee method | null data in fields
