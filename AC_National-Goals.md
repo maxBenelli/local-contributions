@@ -72,3 +72,4 @@
 * Change unit reference, add edit method, refactor component
 * Fix employee method | null data in fields
 * Change premiers reference, add edit method, refactor component
+* Fix component name
