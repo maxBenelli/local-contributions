@@ -75,3 +75,4 @@
 * Fix component name
 * Change federal organizations reference, add edit method, refactor
 * Change single plan reference, add edit method, refactor
+* Change federal projects reference, add edit method, refactor
