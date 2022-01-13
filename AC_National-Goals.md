@@ -77,3 +77,6 @@
 * Change single plan reference, add edit method, refactor
 * Change federal projects reference, add edit method, refactor
 * Change National Projects reference, add edit method, refactor
+
+## 2022-01-13
+* Change app name
