@@ -85,3 +85,4 @@
 * Change National Project Index, add code edit
 * Fix NationalProject reference field
 * Change Region reference, add edit method, refactor
+* Change route name 'event' to 'activity'
