@@ -83,3 +83,4 @@
 
 ## 2022-01-14
 * Change National Project Index, add code edit
+* Fix NationalProject reference field
