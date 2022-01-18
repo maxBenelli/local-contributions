@@ -91,3 +91,4 @@
 * Change table name of EditResult
 * Add tooltips for collapsed cards
 * Add tooltips for items in EventCreate
+* Change route name 'event' to 'activity'
