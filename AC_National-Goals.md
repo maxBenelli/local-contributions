@@ -86,3 +86,6 @@
 * Fix NationalProject reference field
 * Change Region reference, add edit method, refactor
 * Change route name 'event' to 'activity'
+
+## 2022-01-18
+* Change table name of EditResult
