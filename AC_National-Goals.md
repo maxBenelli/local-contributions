@@ -94,3 +94,4 @@
 * Change route name 'event' to 'activity'
 * Delete unused result_dynamic_fact / soc_result_dynamic_fact cards
 * Add tooltips for social result cards, change table name
+* Add tooltips for factors cards
