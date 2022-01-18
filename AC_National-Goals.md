@@ -92,3 +92,4 @@
 * Add tooltips for collapsed cards
 * Add tooltips for items in EventCreate
 * Change route name 'event' to 'activity'
+* Delete unused result_dynamic_fact / soc_result_dynamic_fact cards
