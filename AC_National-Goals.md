@@ -100,3 +100,4 @@
 * Add EventPayments tab, add create/get/save methods,
 * Disable save button before data saved
 * Add notifications for EventPayments save
+* Hot-fix | change html tag, prevent default in form
