@@ -98,3 +98,4 @@
 
 ## 2022-01-19
 * Add EventPayments tab, add create/get/save methods,
+* Disable save button before data saved
