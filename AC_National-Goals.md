@@ -106,3 +106,4 @@
 * Add checkpoints payments , add methods
 * Add percent postfix for deviation in payment checkpoints
 * Delete unused api
+* Replace input text by the type Date, set default dates
