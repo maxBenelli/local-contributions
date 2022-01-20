@@ -104,3 +104,4 @@
 
 ## 2022-01-20
 * Add checkpoints payments , add methods
+* Add percent postfix for deviation in payment checkpoints
