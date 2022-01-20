@@ -101,3 +101,6 @@
 * Disable save button before data saved
 * Add notifications for EventPayments save
 * Hot-fix | change html tag, prevent default in form
+
+## 2022-01-20
+* Add checkpoints payments , add methods
