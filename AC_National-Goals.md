@@ -110,3 +110,4 @@
 
 ## 2022-01-21
 * Add contracts types reference methods
+* Add contracts reference methods
