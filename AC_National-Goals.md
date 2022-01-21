@@ -112,3 +112,4 @@
 * Add contracts types reference methods
 * Add contracts reference methods
 * Add contracts reference component, add sidebar link
+* Add contracts link to sidebar
