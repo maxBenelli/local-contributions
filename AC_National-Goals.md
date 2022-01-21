@@ -107,3 +107,6 @@
 * Add percent postfix for deviation in payment checkpoints
 * Delete unused api
 * Replace input text by the type Date, set default dates
+
+## 2022-01-21
+* Add contracts types reference methods
