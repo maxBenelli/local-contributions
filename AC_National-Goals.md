@@ -118,3 +118,4 @@
 * Add contracts file upload
 * Fix save/create obResponse data
 * Add linked contracts
+* Add typeName for contracts
