@@ -113,3 +113,6 @@
 * Add contracts reference methods
 * Add contracts reference component, add sidebar link
 * Add contracts link to sidebar
+
+## 2022-01-22
+* Add contracts file upload
