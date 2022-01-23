@@ -119,3 +119,6 @@
 * Fix save/create obResponse data
 * Add linked contracts
 * Add typeName for contracts
+
+## 2022-01-23
+* Change tab name
