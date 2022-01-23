@@ -123,3 +123,4 @@
 ## 2022-01-23
 * Change tab name
 * Add contracts select for event result , add methods
+* Add new page Activities Quality
