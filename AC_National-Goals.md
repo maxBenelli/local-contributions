@@ -127,3 +127,4 @@
 
 ## 2022-01-24
 * Hide Add btn if the referense is readable
+* Add Activities Quality reference, add methods
