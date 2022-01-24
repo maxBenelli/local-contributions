@@ -124,3 +124,6 @@
 * Change tab name
 * Add contracts select for event result , add methods
 * Add new page Activities Quality
+
+## 2022-01-24
+* Hide Add btn if the referense is readable
