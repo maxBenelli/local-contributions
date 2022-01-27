@@ -131,3 +131,4 @@
 
 ## 2022-01-27
 * Replace font by the Noto Display
+* Hot-fix | Return unformatted date
