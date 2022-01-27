@@ -134,3 +134,4 @@
 * Hot-fix | Return unformatted date
 * Add new route - Activities
 * Add default layout
+* Auto-refactor | router.js
