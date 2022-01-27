@@ -128,3 +128,6 @@
 ## 2022-01-24
 * Hide Add btn if the referense is readable
 * Add Activities Quality reference, add methods
+
+## 2022-01-27
+* Replace font by the Noto Display
