@@ -133,3 +133,4 @@
 * Replace font by the Noto Display
 * Hot-fix | Return unformatted date
 * Add new route - Activities
+* Add default layout
