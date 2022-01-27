@@ -139,3 +139,4 @@
 * Change sidebar link to the new component
 * Hot-fix | fix word
 * Hot-fix | Change button name
+* Change activity table width
