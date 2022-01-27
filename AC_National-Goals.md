@@ -137,3 +137,4 @@
 * Auto-refactor | router.js
 * Add new page - Activities v.1.0
 * Change sidebar link to the new component
+* Hot-fix | fix word
