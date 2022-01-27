@@ -140,3 +140,4 @@
 * Hot-fix | fix word
 * Hot-fix | Change button name
 * Change activity table width
+* Fix table checkbox style
