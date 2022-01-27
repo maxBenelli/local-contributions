@@ -135,3 +135,4 @@
 * Add new route - Activities
 * Add default layout
 * Auto-refactor | router.js
+* Add new page - Activities v.1.0
