@@ -138,3 +138,4 @@
 * Add new page - Activities v.1.0
 * Change sidebar link to the new component
 * Hot-fix | fix word
+* Hot-fix | Change button name
