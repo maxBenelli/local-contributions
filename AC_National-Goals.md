@@ -146,3 +146,4 @@
 ## 2022-01-28
 * Hot-fix | Add goal_id for get/save Activities
 * Delete old styles from the default template
+* Update old layout - change styles/template, remove breadcrumbs
