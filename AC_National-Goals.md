@@ -142,3 +142,6 @@
 * Change activity table width
 * Fix table checkbox style
 * Fix variable names
+
+## 2022-01-28
+* Hot-fix | Add goal_id for get/save Activities
