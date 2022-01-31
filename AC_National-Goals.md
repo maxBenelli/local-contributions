@@ -150,3 +150,6 @@
 
 ## 2022-01-30
 * Add activities search filter
+
+## 2022-01-31
+* Remove row selection from Activities table
