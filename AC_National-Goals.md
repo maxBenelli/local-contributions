@@ -157,3 +157,4 @@
 ## 2022-02-01
 * Add BaseModal component
 * Add Activities ModalDeleteItem
+* Fix button styles
