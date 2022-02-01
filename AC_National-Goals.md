@@ -158,3 +158,4 @@
 * Add BaseModal component
 * Add Activities ModalDeleteItem
 * Fix button styles
+* Add ModalDeleteItem component for the Activities
