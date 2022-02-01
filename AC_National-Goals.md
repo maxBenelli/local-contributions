@@ -153,3 +153,6 @@
 
 ## 2022-01-31
 * Remove row selection from Activities table
+
+## 2022-02-01
+* Add BaseModal component
