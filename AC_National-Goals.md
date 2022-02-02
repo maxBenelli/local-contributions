@@ -163,3 +163,4 @@
 ## 2022-02-02
 * Hide filter by compensation in the activities quality
 * Set route and watch
+* Change Navbar template, add menu button
