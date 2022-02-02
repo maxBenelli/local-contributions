@@ -164,3 +164,4 @@
 * Hide filter by compensation in the activities quality
 * Set route and watch
 * Change Navbar template, add menu button
+* Change sidebar template, styles
