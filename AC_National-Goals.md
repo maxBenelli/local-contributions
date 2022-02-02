@@ -159,3 +159,6 @@
 * Add Activities ModalDeleteItem
 * Fix button styles
 * Add ModalDeleteItem component for the Activities
+
+## 2022-02-02
+* Hide filter by compensation in the activities quality
