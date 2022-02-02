@@ -166,3 +166,4 @@
 * Change Navbar template, add menu button
 * Change sidebar template, styles
 * Change App template, pass params from components
+* Hide menu links
