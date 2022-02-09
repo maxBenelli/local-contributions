@@ -167,3 +167,6 @@
 * Change sidebar template, styles
 * Change App template, pass params from components
 * Hide menu links
+
+## 2022-02-09
+* Add tooltip for values labels
