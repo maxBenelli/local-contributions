@@ -170,3 +170,4 @@
 
 ## 2022-02-09
 * Add tooltip for values labels
+* Remove required, change select field
