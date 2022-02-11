@@ -171,3 +171,6 @@
 ## 2022-02-09
 * Add tooltip for values labels
 * Remove required, change select field
+
+## 2022-02-11
+* Remove unused result_types and class_id from activities
