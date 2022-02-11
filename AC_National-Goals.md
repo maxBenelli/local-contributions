@@ -174,3 +174,4 @@
 
 ## 2022-02-11
 * Remove unused result_types and class_id from activities
+* Add checkpoints save method, change checkpoint template reference
