@@ -176,3 +176,4 @@
 * Remove unused result_types and class_id from activities
 * Add checkpoints save method, change checkpoint template reference
 * Delete trash
+* Change workProjectTypes reference, add save method
