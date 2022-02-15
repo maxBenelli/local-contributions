@@ -186,3 +186,4 @@
 * Fix indicator_id activities affiliation save
 * Add shit-fix for showing graphs
 * Add shit-fix
+* Show link in the sidebar
