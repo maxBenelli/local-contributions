@@ -177,3 +177,6 @@
 * Add checkpoints save method, change checkpoint template reference
 * Delete trash
 * Change workProjectTypes reference, add save method
+
+## 2022-02-15
+* Add result types method
