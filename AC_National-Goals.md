@@ -181,3 +181,4 @@
 ## 2022-02-15
 * Add result types method
 * Add typeId variable to the activity checkpoint method
+* Add shit-fixes | old template
