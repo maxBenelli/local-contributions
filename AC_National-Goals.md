@@ -182,3 +182,4 @@
 * Add result types method
 * Add typeId variable to the activity checkpoint method
 * Add shit-fixes | old template
+* Add shit-fixes
