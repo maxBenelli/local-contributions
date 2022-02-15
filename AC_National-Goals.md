@@ -183,3 +183,4 @@
 * Add typeId variable to the activity checkpoint method
 * Add shit-fixes | old template
 * Add shit-fixes
+* Fix indicator_id activities affiliation save
