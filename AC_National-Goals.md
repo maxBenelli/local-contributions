@@ -187,3 +187,6 @@
 * Add shit-fix for showing graphs
 * Add shit-fix
 * Show link in the sidebar
+
+## 2022-02-16
+* Get goals indicators in first
