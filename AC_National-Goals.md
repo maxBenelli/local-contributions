@@ -194,3 +194,4 @@
 * Fix goals reference
 * Fix goals indicators
 * Get indicators in first
+* Fix goals indicators
