@@ -191,3 +191,4 @@
 ## 2022-02-16
 * Get goals indicators in first
 * Get goals in first
+* Fix goals reference
