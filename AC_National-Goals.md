@@ -204,3 +204,4 @@
 * Change checkpoints layout
 * Delete trash
 * Add year for goals quality
+* Delete unused param
