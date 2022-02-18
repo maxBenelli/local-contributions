@@ -205,3 +205,4 @@
 * Delete trash
 * Add year for goals quality
 * Delete unused param
+* Fix table styles
