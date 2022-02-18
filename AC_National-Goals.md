@@ -201,3 +201,4 @@
 * Add goals quality page
 * Add goals-analytics route
 * Add sidebar link
+* Change checkpoints layout
