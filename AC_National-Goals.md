@@ -195,3 +195,6 @@
 * Fix goals indicators
 * Get indicators in first
 * Fix goals indicators
+
+## 2022-02-18
+* Add goals quality methods
