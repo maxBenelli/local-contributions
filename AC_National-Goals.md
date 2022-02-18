@@ -203,3 +203,4 @@
 * Add sidebar link
 * Change checkpoints layout
 * Delete trash
+* Add year for goals quality
