@@ -200,3 +200,4 @@
 * Add goals quality methods
 * Add goals quality page
 * Add goals-analytics route
+* Add sidebar link
