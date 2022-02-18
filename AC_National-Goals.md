@@ -199,3 +199,4 @@
 ## 2022-02-18
 * Add goals quality methods
 * Add goals quality page
+* Add goals-analytics route
