@@ -206,3 +206,6 @@
 * Add year for goals quality
 * Delete unused param
 * Fix table styles
+
+## 2022-02-25
+* Fix table layout
