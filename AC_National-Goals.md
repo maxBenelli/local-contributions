@@ -211,3 +211,4 @@
 * Fix table layout
 * Fix button styles
 * Hide sidebar link
+* Hide sidebar link
