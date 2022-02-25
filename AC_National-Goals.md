@@ -209,3 +209,4 @@
 
 ## 2022-02-25
 * Fix table layout
+* Fix button styles
