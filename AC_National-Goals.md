@@ -212,3 +212,6 @@
 * Fix button styles
 * Hide sidebar link
 * Hide sidebar link
+
+## 2022-03-01
+* Change table headers
