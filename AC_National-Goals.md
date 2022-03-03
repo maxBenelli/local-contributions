@@ -215,3 +215,6 @@
 
 ## 2022-03-01
 * Change table headers
+
+## 2022-03-03
+* Add activity results/social results methods
