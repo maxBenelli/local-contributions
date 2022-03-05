@@ -221,3 +221,4 @@
 
 ## 2022-03-05
 * Add activity results/social results get method by id
+* Add delete flag for checkpoints
