@@ -218,3 +218,6 @@
 
 ## 2022-03-03
 * Add activity results/social results methods
+
+## 2022-03-05
+* Add activity results/social results get method by id
