@@ -223,3 +223,4 @@
 * Add activity results/social results get method by id
 * Add delete flag for checkpoints
 * Add description for the checkpoints
+* Delete trash
