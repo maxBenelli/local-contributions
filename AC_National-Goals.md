@@ -227,3 +227,4 @@
 
 ## 2022-03-10
 * Format numbers with Math.round, fix factor title/id
+* Fix calendar format, add prop
