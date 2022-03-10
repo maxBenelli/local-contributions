@@ -224,3 +224,6 @@
 * Add delete flag for checkpoints
 * Add description for the checkpoints
 * Delete trash
+
+## 2022-03-10
+* Format numbers with Math.round, fix factor title/id
