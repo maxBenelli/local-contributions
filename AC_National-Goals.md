@@ -237,3 +237,4 @@
 * Add helpers, add static data in the store
 * Fix references
 * Add get activity method
+* Update router
