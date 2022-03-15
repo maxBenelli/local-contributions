@@ -241,3 +241,4 @@
 * Add Base ui.kit components
 * Add Results / Social Results components
 * Fix template
+* Change router link in the Activities
