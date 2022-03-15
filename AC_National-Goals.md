@@ -236,3 +236,4 @@
 * Add text-mask-addons / vue-text-mask packages
 * Add helpers, add static data in the store
 * Fix references
+* Add get activity method
