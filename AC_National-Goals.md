@@ -239,3 +239,4 @@
 * Add get activity method
 * Update router
 * Add Base ui.kit components
+* Add Results / Social Results components
