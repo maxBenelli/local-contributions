@@ -232,3 +232,4 @@
 
 ## 2022-03-15
 * Change title name
+* Fix method
