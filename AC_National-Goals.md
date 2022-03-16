@@ -243,3 +243,6 @@
 * Fix template
 * Change router link in the Activities
 * Add router links for create buttons
+
+## 2022-03-16
+* Fix get activity mainInfo step
