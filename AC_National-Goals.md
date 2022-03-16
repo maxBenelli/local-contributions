@@ -248,3 +248,4 @@
 * Fix get activity mainInfo step
 * Fix Results/SocialResults router
 * Delete trash
+* Fix eventId param, fix update method, add notifications, clearData
