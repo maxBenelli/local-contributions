@@ -249,3 +249,4 @@
 * Fix Results/SocialResults router
 * Delete trash
 * Fix eventId param, fix update method, add notifications, clearData
+* Fix save result values page
