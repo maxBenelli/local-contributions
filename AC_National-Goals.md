@@ -250,3 +250,4 @@
 * Delete trash
 * Fix eventId param, fix update method, add notifications, clearData
 * Fix save result values page
+* Fix table values separator
