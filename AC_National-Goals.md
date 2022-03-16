@@ -247,3 +247,4 @@
 ## 2022-03-16
 * Fix get activity mainInfo step
 * Fix Results/SocialResults router
+* Delete trash
