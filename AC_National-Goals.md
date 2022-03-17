@@ -257,3 +257,4 @@
 * Add FactorAnalyze test page
 * Add new link, route
 * Hide filter
+* Install amchart node_modules
