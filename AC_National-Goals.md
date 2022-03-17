@@ -251,3 +251,6 @@
 * Fix eventId param, fix update method, add notifications, clearData
 * Fix save result values page
 * Fix table values separator
+
+## 2022-03-17
+* Add factorModel method
