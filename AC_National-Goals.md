@@ -254,3 +254,4 @@
 
 ## 2022-03-17
 * Add factorModel method
+* Add FactorAnalyze test page
