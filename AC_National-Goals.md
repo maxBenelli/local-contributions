@@ -256,3 +256,4 @@
 * Add factorModel method
 * Add FactorAnalyze test page
 * Add new link, route
+* Hide filter
