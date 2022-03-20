@@ -258,3 +258,6 @@
 * Add new link, route
 * Hide filter
 * Install amchart node_modules
+
+## 2022-03-20
+* Add new route the Create Activity
