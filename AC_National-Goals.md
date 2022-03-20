@@ -262,3 +262,4 @@
 ## 2022-03-20
 * Add new route the Create Activity
 * Check if the activity is exist, else disable tabs
+* Add method for create activity
