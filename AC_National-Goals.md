@@ -263,3 +263,4 @@
 * Add new route the Create Activity
 * Check if the activity is exist, else disable tabs
 * Add method for create activity
+* Add parent activity field, if the category exist
