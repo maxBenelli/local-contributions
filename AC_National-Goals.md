@@ -264,3 +264,6 @@
 * Check if the activity is exist, else disable tabs
 * Add method for create activity
 * Add parent activity field, if the category exist
+
+## 2022-03-21
+* Add warn class if empty parent when category isn't the main
