@@ -279,3 +279,4 @@
 * Add save event for activity button
 * Change button's create activity route
 * Fix value_plan / value_fact activity budget values, add mask
+* Fix addPayment popup, add number mask, add currency description
