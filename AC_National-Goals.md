@@ -272,3 +272,4 @@
 * Add filtration in the select by name
 * Add update activity method
 * Add linked social results field, delete trash
+* Remove pagination from activities list
