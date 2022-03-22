@@ -281,3 +281,4 @@
 * Fix value_plan / value_fact activity budget values, add mask
 * Fix addPayment popup, add number mask, add currency description
 * Fix payment's table headers
+* Fix Payment's table values
