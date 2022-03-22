@@ -284,3 +284,4 @@
 * Fix Payment's table values
 * Set isSubject default value
 * Fix Budget's valuePlan / valueFact value
+* Add back btn by parent's component name
