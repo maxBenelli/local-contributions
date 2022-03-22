@@ -267,3 +267,6 @@
 
 ## 2022-03-21
 * Add warn class if empty parent when category isn't the main
+
+## 2022-03-22
+* Add filtration in the select by name
