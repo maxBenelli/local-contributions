@@ -271,3 +271,4 @@
 ## 2022-03-22
 * Add filtration in the select by name
 * Add update activity method
+* Add linked social results field, delete trash
