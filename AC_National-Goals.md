@@ -282,3 +282,4 @@
 * Fix addPayment popup, add number mask, add currency description
 * Fix payment's table headers
 * Fix Payment's table values
+* Set isSubject default value
