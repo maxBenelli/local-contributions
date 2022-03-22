@@ -274,3 +274,4 @@
 * Add linked social results field, delete trash
 * Remove pagination from activities list
 * Fix activity isSubject field / BaseRadio.vue
+* Remove deprecated affiliation
