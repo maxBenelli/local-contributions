@@ -277,3 +277,4 @@
 * Remove deprecated affiliation
 * Fix activity setData, add save/create method, fix save method
 * Add save event for activity button
+* Change button's create activity route
