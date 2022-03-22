@@ -283,3 +283,4 @@
 * Fix payment's table headers
 * Fix Payment's table values
 * Set isSubject default value
+* Fix Budget's valuePlan / valueFact value
