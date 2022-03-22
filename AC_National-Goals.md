@@ -275,3 +275,4 @@
 * Remove pagination from activities list
 * Fix activity isSubject field / BaseRadio.vue
 * Remove deprecated affiliation
+* Fix activity setData, add save/create method, fix save method
