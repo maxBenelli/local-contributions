@@ -278,3 +278,4 @@
 * Fix activity setData, add save/create method, fix save method
 * Add save event for activity button
 * Change button's create activity route
+* Fix value_plan / value_fact activity budget values, add mask
