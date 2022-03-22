@@ -285,3 +285,4 @@
 * Set isSubject default value
 * Fix Budget's valuePlan / valueFact value
 * Add back btn by parent's component name
+* Add parent's component name for routes
