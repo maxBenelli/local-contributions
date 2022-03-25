@@ -286,3 +286,6 @@
 * Fix Budget's valuePlan / valueFact value
 * Add back btn by parent's component name
 * Add parent's component name for routes
+
+## 2022-03-25
+* Add formatNumToStr helper's function
