@@ -295,3 +295,4 @@
 * Add save/create/remove risks api methods
 * Add risk probabilities get/save methods
 * Add risk Main/DetailItem/SubFactValues risk components
+* Add risk's pages routes
