@@ -290,3 +290,6 @@
 ## 2022-03-25
 * Add formatNumToStr helper's function
 * Add risk/riskReferences api methods
+
+## 2022-03-29
+* Add save/create/remove risks api methods
