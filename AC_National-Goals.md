@@ -297,3 +297,4 @@
 * Add risk Main/DetailItem/SubFactValues risk components
 * Add risk's pages routes
 * Add link to the sidebar
+* Hide risk filter btn
