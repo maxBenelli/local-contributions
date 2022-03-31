@@ -304,3 +304,4 @@
 * Add risk responses/responses files methods
 * Add responses component/ edit response modal
 * Add tab component into detail risk component
+* Fix styles
