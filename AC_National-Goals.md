@@ -305,3 +305,4 @@
 * Add responses component/ edit response modal
 * Add tab component into detail risk component
 * Fix styles
+* Filter result types by activity type in the Result MainInfo
