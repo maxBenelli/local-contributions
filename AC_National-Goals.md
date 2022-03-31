@@ -308,3 +308,4 @@
 * Filter result types by activity type in the Result MainInfo
 * Change column title , add currency
 * Hide activity tag quality if parent_id exist
+* Add socialResults warning if the activity isn't main
