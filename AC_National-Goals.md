@@ -307,3 +307,4 @@
 * Fix styles
 * Filter result types by activity type in the Result MainInfo
 * Change column title , add currency
+* Hide activity tag quality if parent_id exist
