@@ -301,3 +301,4 @@
 
 ## 2022-03-31
 * Add formatDate helper
+* Add risk responses/responses files methods
