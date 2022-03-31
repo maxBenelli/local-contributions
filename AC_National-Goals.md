@@ -298,3 +298,6 @@
 * Add risk's pages routes
 * Add link to the sidebar
 * Hide risk filter btn
+
+## 2022-03-31
+* Add formatDate helper
