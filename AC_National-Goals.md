@@ -309,3 +309,6 @@
 * Change column title , add currency
 * Hide activity tag quality if parent_id exist
 * Add socialResults warning if the activity isn't main
+
+## 2022-04-04
+* Add activity social results method
