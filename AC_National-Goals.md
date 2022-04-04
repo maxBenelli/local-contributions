@@ -314,3 +314,4 @@
 * Add activity social results method
 * Add activity social results save / create / notifications
 * Fix social result save method
+* Add funding methods
