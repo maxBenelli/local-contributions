@@ -319,3 +319,4 @@
 
 ## 2022-04-05
 * Hide social results - not works
+* Fix SocialResults
