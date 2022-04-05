@@ -316,3 +316,6 @@
 * Fix social result save method
 * Add funding methods
 * Replace budget sources by reference, change get/save methods
+
+## 2022-04-05
+* Hide social results - not works
