@@ -321,3 +321,6 @@
 * Hide social results - not works
 * Fix SocialResults
 * Show socialResult tab
+
+## 2022-04-06
+* Fix obData format
