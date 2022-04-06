@@ -327,3 +327,4 @@
 * Filter factorIndicators by factor id , add watcher
 * Hide risk strategies, threat from Risk page
 * Fix datepicker styles
+* Add datepicker localization
