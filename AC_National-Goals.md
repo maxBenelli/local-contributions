@@ -324,3 +324,4 @@
 
 ## 2022-04-06
 * Fix obData format
+* Filter factorIndicators by factor id , add watcher
