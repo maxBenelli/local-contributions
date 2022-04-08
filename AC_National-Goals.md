@@ -328,3 +328,6 @@
 * Hide risk strategies, threat from Risk page
 * Fix datepicker styles
 * Add datepicker localization
+
+## 2022-04-08
+* Delete trash
