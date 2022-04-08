@@ -334,3 +334,4 @@
 * Change .gitignore
 * Change project README
 * Add .editorconfig
+* Add project version 2
