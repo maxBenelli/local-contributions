@@ -333,3 +333,4 @@
 * Delete trash
 * Change .gitignore
 * Change project README
+* Add .editorconfig
