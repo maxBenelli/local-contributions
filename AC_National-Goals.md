@@ -332,3 +332,4 @@
 ## 2022-04-08
 * Delete trash
 * Change .gitignore
+* Change project README
