@@ -335,3 +335,6 @@
 * Change project README
 * Add .editorconfig
 * Add project version 2
+
+## 2022-04-11
+* Set LayoutDefault as default template for routes
