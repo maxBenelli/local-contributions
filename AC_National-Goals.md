@@ -338,3 +338,5 @@
 
 ## 2022-04-11
 * Set LayoutDefault as default template for routes
+* Revert Set LayoutDefault as default template for routes
+* Fix detail activity link
