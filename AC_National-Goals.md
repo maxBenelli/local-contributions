@@ -344,3 +344,4 @@
 ## 2022-04-13
 * Change save activity result method
 * Add contract's field to the Result page
+* Add activity select field to the EditResponse
