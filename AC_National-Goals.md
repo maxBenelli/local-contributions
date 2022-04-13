@@ -340,3 +340,6 @@
 * Set LayoutDefault as default template for routes
 * Revert Set LayoutDefault as default template for routes
 * Fix detail activity link
+
+## 2022-04-13
+* Change save activity result method
