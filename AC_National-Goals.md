@@ -354,3 +354,4 @@
 * Add new route
 * Add Natural persons reference methods
 * Add NaturalPersons reference, edit / delete modal components
+* Add width prop for BaseModal
