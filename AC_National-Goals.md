@@ -350,3 +350,4 @@
 
 ## 2022-04-15
 * Change link title in the Sidebar
+* Add sidebar link
