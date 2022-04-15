@@ -352,3 +352,4 @@
 * Change link title in the Sidebar
 * Add sidebar link
 * Add new route
+* Add Natural persons reference methods
