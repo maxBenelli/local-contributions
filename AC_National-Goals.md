@@ -347,3 +347,6 @@
 * Add activity select field to the EditResponse
 * Add activity link to the Responses
 * Filter activities by category
+
+## 2022-04-15
+* Change link title in the Sidebar
