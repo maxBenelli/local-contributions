@@ -358,3 +358,4 @@
 
 ## 2022-04-16
 * Change Sidebar link title
+* Change component name
