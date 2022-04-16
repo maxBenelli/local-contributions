@@ -355,3 +355,6 @@
 * Add Natural persons reference methods
 * Add NaturalPersons reference, edit / delete modal components
 * Add width prop for BaseModal
+
+## 2022-04-16
+* Change Sidebar link title
