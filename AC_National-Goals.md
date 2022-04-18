@@ -359,3 +359,6 @@
 ## 2022-04-16
 * Change Sidebar link title
 * Change component name
+
+## 2022-04-18
+* Fix method names
