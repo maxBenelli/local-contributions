@@ -366,3 +366,4 @@
 ## 2022-04-20
 * Add focus groups/employees api methods
 * Add focus groups reference / transfer components
+* Add new route
