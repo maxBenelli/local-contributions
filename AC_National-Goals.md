@@ -362,3 +362,6 @@
 
 ## 2022-04-18
 * Fix method names
+
+## 2022-04-20
+* Add focus groups/employees api methods
