@@ -367,3 +367,6 @@
 * Add focus groups/employees api methods
 * Add focus groups reference / transfer components
 * Add new route
+
+## 2022-04-21
+* Add is_risk variable
