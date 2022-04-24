@@ -374,3 +374,4 @@
 
 ## 2022-04-24
 * Fix datepicker/textarea disabled styles
+* Add BaseCheckbox component
