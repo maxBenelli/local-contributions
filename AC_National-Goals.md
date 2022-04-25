@@ -381,3 +381,4 @@
 * Fix templates for focus application component
 * Add FocusSlider component
 * Add Focus application component
+* Add new route
