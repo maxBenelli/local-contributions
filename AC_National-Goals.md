@@ -375,3 +375,6 @@
 ## 2022-04-24
 * Fix datepicker/textarea disabled styles
 * Add BaseCheckbox component
+
+## 2022-04-25
+* Add focus application methods
