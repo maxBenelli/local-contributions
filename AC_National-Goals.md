@@ -380,3 +380,4 @@
 * Add focus application methods
 * Fix templates for focus application component
 * Add FocusSlider component
+* Add Focus application component
