@@ -378,3 +378,4 @@
 
 ## 2022-04-25
 * Add focus application methods
+* Fix templates for focus application component
