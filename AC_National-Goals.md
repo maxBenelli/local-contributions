@@ -387,3 +387,4 @@
 * Fix error with store variable
 * Set title hint for select options
 * Fix BaseSelect disabled style
+* Filter goalsIndicators by goal Id
