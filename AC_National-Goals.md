@@ -386,3 +386,4 @@
 ## 2022-04-26
 * Fix error with store variable
 * Set title hint for select options
+* Fix BaseSelect disabled style
