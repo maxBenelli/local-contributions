@@ -382,3 +382,6 @@
 * Add FocusSlider component
 * Add Focus application component
 * Add new route
+
+## 2022-04-26
+* Fix error with store variable
