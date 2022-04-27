@@ -394,3 +394,4 @@
 * Fix application page - open without authentication
 * Change focus application title placement
 * Add focus application the BadUrl component
+* Show BadUrl if the url isn't valid
