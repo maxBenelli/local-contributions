@@ -392,3 +392,4 @@
 
 ## 2022-04-27
 * Fix application page - open without authentication
+* Change focus application title placement
