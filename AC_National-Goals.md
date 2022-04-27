@@ -393,3 +393,4 @@
 ## 2022-04-27
 * Fix application page - open without authentication
 * Change focus application title placement
+* Add focus application the BadUrl component
