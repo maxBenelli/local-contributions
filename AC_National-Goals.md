@@ -389,3 +389,6 @@
 * Fix BaseSelect disabled style
 * Filter goalsIndicators by goal Id
 * Fix application page - open without authentication
+
+## 2022-04-27
+* Fix application page - open without authentication
