@@ -402,3 +402,4 @@
 * Show expired/success components by conditions
 * Add activity responses methods
 * Add activity responses components
+* Add Response step for activities
