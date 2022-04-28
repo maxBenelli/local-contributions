@@ -397,3 +397,6 @@
 * Show BadUrl if the url isn't valid
 * Add focus application the SuccessSend component
 * Add focus application the ExpiredUrl component
+
+## 2022-04-28
+* Show expired/success components by conditions
