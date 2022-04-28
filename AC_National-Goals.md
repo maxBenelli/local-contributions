@@ -403,3 +403,4 @@
 * Add activity responses methods
 * Add activity responses components
 * Add Response step for activities
+* Add Response tab for detail activity
