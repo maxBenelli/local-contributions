@@ -406,3 +406,6 @@
 * Add Response tab for detail activity
 * Add new route
 * Fix .editorconfig
+
+## 2022-04-29
+* Fix error
