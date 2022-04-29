@@ -414,3 +414,4 @@
 * Add create method for activity response
 * Fix fields values
 * Add listEmployees api method
+* Add responses application step component
