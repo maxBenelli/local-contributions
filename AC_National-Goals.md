@@ -412,3 +412,4 @@
 * Fix activity response create method
 * Add notifications for activity response
 * Add create method for activity response
+* Fix fields values
