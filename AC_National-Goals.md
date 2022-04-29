@@ -410,3 +410,4 @@
 ## 2022-04-29
 * Fix error
 * Fix activity response create method
+* Add notifications for activity response
