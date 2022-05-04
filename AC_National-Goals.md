@@ -415,3 +415,6 @@
 * Fix fields values
 * Add listEmployees api method
 * Add responses application step component
+
+## 2022-05-04
+* Remove threat field from Risks page
