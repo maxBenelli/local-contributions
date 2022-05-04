@@ -418,3 +418,4 @@
 
 ## 2022-05-04
 * Remove threat field from Risks page
+* Add Activity create link for Response page
