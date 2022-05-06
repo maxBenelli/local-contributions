@@ -420,3 +420,6 @@
 * Remove threat field from Risks page
 * Add Activity create link for Response page
 * Add FontAwesome package
+
+## 2022-05-06
+* Change factor model, set dynamic data / filter
