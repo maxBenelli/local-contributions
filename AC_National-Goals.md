@@ -423,3 +423,4 @@
 
 ## 2022-05-06
 * Change factor model, set dynamic data / filter
+* Hide tables in the goals quality page
