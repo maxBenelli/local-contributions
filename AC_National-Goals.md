@@ -427,3 +427,4 @@
 
 ## 2022-05-12
 * Fix table styles
+* Fix old layout width
