@@ -429,3 +429,6 @@
 * Fix table styles
 * Fix old layout width
 * Replace criteria id by title
+
+## 2022-05-16
+* Change sidebar link placement
