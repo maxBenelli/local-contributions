@@ -432,3 +432,6 @@
 
 ## 2022-05-16
 * Change sidebar link placement
+
+## 2022-05-24
+* Change activities MainInfo fields placement
