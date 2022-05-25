@@ -435,3 +435,6 @@
 
 ## 2022-05-24
 * Change activities MainInfo fields placement
+
+## 2022-05-25
+* Change social result info styles
