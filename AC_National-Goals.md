@@ -438,3 +438,6 @@
 
 ## 2022-05-25
 * Change social result info styles
+
+## 2022-05-26
+* Add new activitie's references, add methods
