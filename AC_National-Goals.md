@@ -441,3 +441,4 @@
 
 ## 2022-05-26
 * Add new activitie's references, add methods
+* Add new activitie's fields
