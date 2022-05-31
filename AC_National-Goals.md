@@ -442,3 +442,6 @@
 ## 2022-05-26
 * Add new activitie's references, add methods
 * Add new activitie's fields
+
+## 2022-05-31
+* Add new fields for the activitie's budget
