@@ -445,3 +445,6 @@
 
 ## 2022-05-31
 * Add new fields for the activitie's budget
+
+## 2022-06-01
+* Fix required icon style
