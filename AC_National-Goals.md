@@ -448,3 +448,4 @@
 
 ## 2022-06-01
 * Fix required icon style
+* Fix activities filter, show risk activities
