@@ -452,3 +452,4 @@
 
 ## 2022-06-03
 * Add incidents api methods
+* Add Incident's page v1
