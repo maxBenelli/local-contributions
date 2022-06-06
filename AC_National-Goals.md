@@ -454,3 +454,6 @@
 * Add incidents api methods
 * Add Incident's page v1
 * Create DeleteItem.vue
+
+## 2022-06-06
+* Change method's type
