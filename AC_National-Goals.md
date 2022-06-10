@@ -457,3 +457,6 @@
 
 ## 2022-06-06
 * Change method's type
+
+## 2022-06-10
+* Add new fields for the social result
