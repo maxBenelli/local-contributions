@@ -463,3 +463,6 @@
 
 ## 2022-06-15
 * Add main reference's page, add back link
+
+## 2022-06-17
+* Fix submenu item paddings
