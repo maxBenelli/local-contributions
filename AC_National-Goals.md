@@ -466,3 +466,6 @@
 
 ## 2022-06-17
 * Fix submenu item paddings
+
+## 2022-06-24
+* Add disabled prop for the checkbox, fix styles
