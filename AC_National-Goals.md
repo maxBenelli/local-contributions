@@ -469,3 +469,4 @@
 
 ## 2022-06-24
 * Add disabled prop for the checkbox, fix styles
+* Change class style
