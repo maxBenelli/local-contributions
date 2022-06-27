@@ -470,3 +470,6 @@
 ## 2022-06-24
 * Add disabled prop for the checkbox, fix styles
 * Change class style
+
+## 2022-06-27
+* Add new version of Risks ( check save backend method - validations )
