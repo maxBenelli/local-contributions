@@ -473,3 +473,4 @@
 
 ## 2022-06-27
 * Add new version of Risks ( check save backend method - validations )
+* Add new version of the Incidents ( save/create method in progress )
