@@ -4,3 +4,4 @@
 * Init default vue project
 * Update .gitignore
 * Update logo
+* Update modules
