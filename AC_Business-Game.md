@@ -5,3 +5,4 @@
 * Update .gitignore
 * Update logo
 * Update modules
+* Add Noto Sans font
