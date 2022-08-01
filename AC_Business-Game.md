@@ -9,3 +9,6 @@
 * Add main index.scss
 * Add some modules
 * Import antd styles
+
+## 2022-08-01
+* Add vue-router module
