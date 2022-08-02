@@ -25,3 +25,4 @@
 * Create ProfilePanel.vue
 * Create Header.vue
 * Create Login.vue
+* Create Login page
