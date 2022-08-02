@@ -32,3 +32,4 @@
 * Add vue router
 * Update container's html tags
 * Change styles placement
+* Update index.scss
