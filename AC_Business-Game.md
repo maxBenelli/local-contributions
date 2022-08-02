@@ -26,3 +26,4 @@
 * Create Header.vue
 * Create Login.vue
 * Create Login page
+* Add default layout
