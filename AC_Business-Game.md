@@ -30,3 +30,4 @@
 * Add main styles, variables
 * Update App.vue
 * Add vue router
+* Update container's html tags
