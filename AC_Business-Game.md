@@ -37,3 +37,4 @@
 * Add sidebar
 * Fix bouncing fonts
 * Change Main page route
+* Add BaseRectangle ui.kit component
