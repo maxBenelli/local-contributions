@@ -24,3 +24,4 @@
 * Add authorize layout
 * Create ProfilePanel.vue
 * Create Header.vue
+* Create Login.vue
