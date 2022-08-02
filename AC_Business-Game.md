@@ -21,3 +21,4 @@
 * Create Logo.vue
 * Create Copyright.vue
 * Create avatar.png
+* Add authorize layout
