@@ -31,3 +31,4 @@
 * Update App.vue
 * Add vue router
 * Update container's html tags
+* Change styles placement
