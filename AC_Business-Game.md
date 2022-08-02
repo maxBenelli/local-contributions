@@ -27,3 +27,4 @@
 * Create Login.vue
 * Create Login page
 * Add default layout
+* Add main styles, variables
