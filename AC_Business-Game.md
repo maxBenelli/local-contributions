@@ -39,3 +39,4 @@
 * Change Main page route
 * Add BaseRectangle ui.kit component
 * Add personal components
+* Add main page with profile blocks
