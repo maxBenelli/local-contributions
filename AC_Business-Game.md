@@ -35,3 +35,4 @@
 * Update index.scss
 * Add Rubik font
 * Add sidebar
+* Fix bouncing fonts
