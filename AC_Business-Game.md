@@ -29,3 +29,4 @@
 * Add default layout
 * Add main styles, variables
 * Update App.vue
+* Add vue router
