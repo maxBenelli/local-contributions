@@ -22,3 +22,4 @@
 * Create Copyright.vue
 * Create avatar.png
 * Add authorize layout
+* Create ProfilePanel.vue
