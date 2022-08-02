@@ -34,3 +34,4 @@
 * Change styles placement
 * Update index.scss
 * Add Rubik font
+* Add sidebar
