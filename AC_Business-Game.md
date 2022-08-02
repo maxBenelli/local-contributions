@@ -13,3 +13,6 @@
 ## 2022-08-01
 * Add vue-router module
 * Delete HelloWorld.vue
+
+## 2022-08-02
+* Create ico-hidden-password.svg
