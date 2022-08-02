@@ -18,3 +18,4 @@
 * Create ico-hidden-password.svg
 * Add ui.kit components
 * Update data syntax
+* Create Logo.vue
