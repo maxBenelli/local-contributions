@@ -20,3 +20,4 @@
 * Update data syntax
 * Create Logo.vue
 * Create Copyright.vue
+* Create avatar.png
