@@ -17,3 +17,4 @@
 ## 2022-08-02
 * Create ico-hidden-password.svg
 * Add ui.kit components
+* Update data syntax
