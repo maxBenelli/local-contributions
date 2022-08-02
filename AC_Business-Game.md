@@ -36,3 +36,4 @@
 * Add Rubik font
 * Add sidebar
 * Fix bouncing fonts
+* Change Main page route
