@@ -28,3 +28,4 @@
 * Create Login page
 * Add default layout
 * Add main styles, variables
+* Update App.vue
