@@ -19,3 +19,4 @@
 * Add ui.kit components
 * Update data syntax
 * Create Logo.vue
+* Create Copyright.vue
