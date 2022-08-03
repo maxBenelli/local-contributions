@@ -46,3 +46,4 @@
 * Fix BaseAvatar styles
 * Update BaseInput.vue
 * Add BlockPersonal content
+* Change sort of the blocks
