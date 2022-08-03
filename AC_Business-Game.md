@@ -49,3 +49,4 @@
 * Change sort of the blocks
 * Fix show/hide password ref
 * Fix BaseAvatar size
+* Add BlockSecurity content
