@@ -48,3 +48,4 @@
 * Add BlockPersonal content
 * Change sort of the blocks
 * Fix show/hide password ref
+* Fix BaseAvatar size
