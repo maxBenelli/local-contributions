@@ -40,3 +40,6 @@
 * Add BaseRectangle ui.kit component
 * Add personal components
 * Add main page with profile blocks
+
+## 2022-08-03
+* Add BaseAvatar, change placement
