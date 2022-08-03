@@ -45,3 +45,4 @@
 * Add BaseAvatar, change placement
 * Fix BaseAvatar styles
 * Update BaseInput.vue
+* Add BlockPersonal content
