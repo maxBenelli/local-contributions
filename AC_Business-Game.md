@@ -43,3 +43,4 @@
 
 ## 2022-08-03
 * Add BaseAvatar, change placement
+* Fix BaseAvatar styles
