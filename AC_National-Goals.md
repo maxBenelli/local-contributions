@@ -480,3 +480,4 @@
 * Add disabled state
 * Backup old reacton
 * Change templates for creating risk reactions
+* Change activity template with risk reaction
