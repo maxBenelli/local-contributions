@@ -474,3 +474,6 @@
 ## 2022-06-27
 * Add new version of Risks ( check save backend method - validations )
 * Add new version of the Incidents ( save/create method in progress )
+
+## 2022-08-04
+* Update router.js
