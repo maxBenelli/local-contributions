@@ -481,3 +481,4 @@
 * Backup old reacton
 * Change templates for creating risk reactions
 * Change activity template with risk reaction
+* Show only reactions if the risk id exist
