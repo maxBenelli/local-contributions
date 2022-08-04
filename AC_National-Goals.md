@@ -479,3 +479,4 @@
 * Update router.js
 * Add disabled state
 * Backup old reacton
+* Change templates for creating risk reactions
