@@ -484,3 +484,6 @@
 * Show only reactions if the risk id exist
 * Add risk_id param for activities list
 * FIx word
+
+## 2022-08-08
+* Fix label's title
