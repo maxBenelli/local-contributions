@@ -487,3 +487,4 @@
 
 ## 2022-08-08
 * Fix label's title
+* Change default active region
