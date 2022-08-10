@@ -58,3 +58,4 @@
 * Change header style placement, styles
 * Remove unused button, change styles
 * Change header styles, add icon
+* Change edit block styles
