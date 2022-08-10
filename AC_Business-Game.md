@@ -50,3 +50,6 @@
 * Fix show/hide password ref
 * Fix BaseAvatar size
 * Add BlockSecurity content
+
+## 2022-08-10
+* Add main background
