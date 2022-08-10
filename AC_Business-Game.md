@@ -65,3 +65,4 @@
 * Change sidebar block styles
 * Add BaseTabs ui.kit component
 * Change main page
+* Update menu
