@@ -55,3 +55,4 @@
 * Add main background
 * Merge branch 'dev' into dev
 * Change logo, text style
+* Change header style placement, styles
