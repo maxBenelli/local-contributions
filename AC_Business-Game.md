@@ -59,3 +59,4 @@
 * Remove unused button, change styles
 * Change header styles, add icon
 * Change edit block styles
+* Fix edit block header margin
