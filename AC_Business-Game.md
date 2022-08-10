@@ -63,3 +63,4 @@
 * Change personal block styles
 * Change sidebar styles placement
 * Change sidebar block styles
+* Add BaseTabs ui.kit component
