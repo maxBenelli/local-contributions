@@ -56,3 +56,4 @@
 * Merge branch 'dev' into dev
 * Change logo, text style
 * Change header style placement, styles
+* Remove unused button, change styles
