@@ -61,3 +61,4 @@
 * Change edit block styles
 * Fix edit block header margin
 * Change personal block styles
+* Change sidebar styles placement
