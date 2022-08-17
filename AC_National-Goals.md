@@ -488,3 +488,6 @@
 ## 2022-08-08
 * Fix label's title
 * Change default active region
+
+## 2022-08-17
+* Update references api methods
