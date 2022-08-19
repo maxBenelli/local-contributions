@@ -76,3 +76,4 @@
 * Add new route
 * Add session page, tab components
 * Add session page
+* Chane sidebar links
