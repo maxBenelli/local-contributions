@@ -71,3 +71,4 @@
 * Update logo styles, copyright color
 * Change authorize form styles, buttons
 * Change profile buttons
+* Change checkbox styles
