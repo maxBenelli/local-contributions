@@ -72,3 +72,4 @@
 * Change authorize form styles, buttons
 * Change profile buttons
 * Change checkbox styles
+* Create ico-add.svg
