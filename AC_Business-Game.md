@@ -66,3 +66,6 @@
 * Add BaseTabs ui.kit component
 * Change main page
 * Update menu
+
+## 2022-08-19
+* Update logo styles, copyright color
