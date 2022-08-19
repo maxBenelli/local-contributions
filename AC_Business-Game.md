@@ -69,3 +69,4 @@
 
 ## 2022-08-19
 * Update logo styles, copyright color
+* Change authorize form styles, buttons
