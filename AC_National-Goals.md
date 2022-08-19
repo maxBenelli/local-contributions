@@ -493,3 +493,6 @@
 * Update references api methods
 * Add new references components, modals
 * Add new routes
+
+## 2022-08-19
+* Add risk cost values api methods
