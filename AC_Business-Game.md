@@ -73,3 +73,4 @@
 * Change profile buttons
 * Change checkbox styles
 * Create ico-add.svg
+* Add new route
