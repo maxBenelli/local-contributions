@@ -74,3 +74,4 @@
 * Change checkbox styles
 * Create ico-add.svg
 * Add new route
+* Add session page, tab components
