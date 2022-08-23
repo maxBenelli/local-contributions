@@ -497,3 +497,6 @@
 ## 2022-08-19
 * Add risk cost values api methods
 * Add risk cost values component, change subfact component placement
+
+## 2022-08-23
+* Add new api methods
