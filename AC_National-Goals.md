@@ -500,3 +500,4 @@
 
 ## 2022-08-23
 * Add new api methods
+* Add new calcRiskValues table
