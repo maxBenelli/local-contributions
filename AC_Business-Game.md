@@ -77,3 +77,6 @@
 * Add session page, tab components
 * Add session page
 * Chane sidebar links
+
+## 2022-08-24
+* Update project v1 ( need refactoring )
