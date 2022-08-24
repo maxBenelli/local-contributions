@@ -502,3 +502,6 @@
 * Add new api methods
 * Add new calcRiskValues table
 * Update MainInfo.vue
+
+## 2022-08-24
+* Add first version of the risk's tree
