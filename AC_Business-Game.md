@@ -80,3 +80,4 @@
 
 ## 2022-08-24
 * Update project v1 ( need refactoring )
+* Update Index.vue
