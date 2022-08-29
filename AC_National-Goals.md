@@ -509,3 +509,4 @@
 ## 2022-08-29
 * Add risks tree api method
 * Update risks tree
+* Change incidentRisk field
