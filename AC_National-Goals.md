@@ -510,3 +510,4 @@
 * Add risks tree api method
 * Update risks tree
 * Change incidentRisk field
+* Change risk reestr values placement, add api methods
