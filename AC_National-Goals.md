@@ -513,3 +513,4 @@
 * Change risk reestr values placement, add api methods
 * Add risks indicators api methods
 * Add new risks indicators reference
+* Add new route
