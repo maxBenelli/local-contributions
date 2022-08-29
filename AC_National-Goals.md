@@ -505,3 +505,6 @@
 
 ## 2022-08-24
 * Add first version of the risk's tree
+
+## 2022-08-29
+* Add risks tree api method
