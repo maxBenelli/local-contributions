@@ -517,3 +517,4 @@
 
 ## 2022-09-01
 * Add problems api methods
+* Add problems page components
