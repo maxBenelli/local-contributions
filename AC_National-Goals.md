@@ -514,3 +514,6 @@
 * Add risks indicators api methods
 * Add new risks indicators reference
 * Add new route
+
+## 2022-09-01
+* Add problems api methods
