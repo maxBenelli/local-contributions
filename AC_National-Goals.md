@@ -519,3 +519,6 @@
 * Add problems api methods
 * Add problems page components
 * Add problems page routes, sidebar link
+
+## 2022-09-04
+* Add problems, regions for incidents
