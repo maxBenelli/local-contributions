@@ -84,3 +84,4 @@
 
 ## 2022-09-08
 * Add BaseTable ui component
+* Replace table components by the new
