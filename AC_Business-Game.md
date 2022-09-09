@@ -90,3 +90,4 @@
 ## 2022-09-09
 * Add 500 weight for the Rubik font
 * Add some svg icons
+* Fix button type
