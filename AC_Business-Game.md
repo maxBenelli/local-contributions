@@ -86,3 +86,6 @@
 * Add BaseTable ui component
 * Replace table components by the new
 * Delete unused components
+
+## 2022-09-09
+* Add 500 weight for the Rubik font
