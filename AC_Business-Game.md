@@ -91,3 +91,6 @@
 * Add 500 weight for the Rubik font
 * Add some svg icons
 * Fix button type
+
+## 2022-09-11
+* Add BaseInfoMessage ui.kit component, styles
