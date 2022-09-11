@@ -94,3 +94,4 @@
 
 ## 2022-09-11
 * Add BaseInfoMessage ui.kit component, styles
+* Add BaseAvatar click event, styles
