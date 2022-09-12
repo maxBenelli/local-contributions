@@ -96,3 +96,6 @@
 * Add BaseInfoMessage ui.kit component, styles
 * Add BaseAvatar click event, styles
 * Change the game layout
+
+## 2022-09-12
+* Last fixes
