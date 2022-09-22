@@ -133,3 +133,4 @@
 
 ## 2022-09-22
 * Update project
+* Merge branch 'feature/upd-12.09' into feature/upd-12.09
