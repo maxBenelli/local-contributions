@@ -7,3 +7,6 @@
 
 ## 2023-02-03
 * Metaratings №1
+
+## 2023-01-01
+* Metaratings №1
